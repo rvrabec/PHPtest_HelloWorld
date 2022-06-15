@@ -7,6 +7,6 @@
   
   <h1>Welcome to my home page!</h1>
   <p>Promijenjeni tekst.</p>
-  <p>Novo nadodano za prob+vjeru builda.</p>
+  <p>Novo nadodano za provjeru builda.</p>
  </body>
 </html>
