@@ -4,8 +4,9 @@
 
 <h1>My first PHP page</h1>
 
-<?php echo "Hello World tets build - NEW!";
-  echo "RV";
+<?php echo "Hello World tets build - NEW!";?>
+  </br>
+  <?php echo "RV";
 ?>
 
 </body>
